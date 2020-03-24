@@ -1,5 +1,5 @@
 # Parcial_Ciberseguridad
-PARCIAL CIBERSEGURIDAD 2019 - CRISTHIAN CHICA A. - 1152466424
+PARCIAL CIBERSEGURIDAD 2019 - CRISTHIAN CHICA A.
 
 Vulnerabilidad:
 Este modulo explota multiples vulnerabilidades en el servidor Open&Compact FTP, como omisión de autenticacion y vulnerabilidad en
